@@ -1,0 +1,35 @@
+{
+  "name": "directiv-package-hyper",
+  "version": "0.1.0",
+  "description": "hyper package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "directiv-data-hyper": "^0.1.0",
+    "directiv-data-hyper-bind": "^0.1.0",
+    "directiv-data-hyper-img": "^0.1.0",
+    "directiv-data-hyper-repeat": "^0.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  },
+  "scripts": {
+    "test": "NODE_ENV=test ./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/directiv/package-hyper.git"
+  },
+  "keywords": [
+    "directiv",
+    "hyper+json"
+  ],
+  "author": "Cameron Bytheway <bytheway.cameron@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/directiv/package-hyper/issues"
+  },
+  "homepage": "https://github.com/directiv/package-hyper"
+}
