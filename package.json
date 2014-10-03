@@ -10,7 +10,8 @@
     "directiv-data-hyper": "^0.1.0",
     "directiv-data-hyper-bind": "^0.1.0",
     "directiv-data-hyper-img": "^0.1.0",
-    "directiv-data-hyper-repeat": "^0.1.0"
+    "directiv-data-hyper-repeat": "^0.1.0",
+    "directiv-store-hyper": "^0.1.0"
   },
   "devDependencies": {
     "mocha": "^1.21.4"
